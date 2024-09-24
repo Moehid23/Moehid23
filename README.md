@@ -1,8 +1,11 @@
-💫 About Me:
+# 💫 About Me:
 Hi 👋, I'm Moehid
+<br>
 A passionate machine learning enthusiast with an insatiable curiosity for AI and data science. For me, every line of code is a step towards innovation that can change the world. I thrive on the challenges of unraveling complex algorithms and turning data into meaningful insights.
 
 "Good software, like wine, takes time." - Joel Spolsky
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdullmoehid_) 
 
