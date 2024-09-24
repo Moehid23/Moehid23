@@ -3,7 +3,7 @@ Hi 👋, I'm Moehid
 <br>
 A passionate machine learning enthusiast with an insatiable curiosity for AI and data science. For me, every line of code is a step towards innovation that can change the world. I thrive on the challenges of unraveling complex algorithms and turning data into meaningful insights.
 
-"Predicting the future isn't magic,it's artificial intelligence" - Dave Waters
+"Predicting the future isn't magic, it's artificial intelligence" - Dave Waters
 
 
 ## 🌐 Socials:
